@@ -1,0 +1,36 @@
+header {
+  background: #0077ff;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.highlight {
+    font-weight: bold;
+    color: #0077ff;
+    transition: opacity 0.5s ease-in-out;
+}
+
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+nav a {
+  color: white;
+  font-weight: bold;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+}
