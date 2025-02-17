@@ -74,7 +74,7 @@ const Home = () => {
         <h1>Welcome to A&M Media</h1>
         <p>
           We <span className="highlight">{textOptions[currentTextIndex]}</span>{" "}
-          your business with targeted social media marketin,
+          your business with targeted social media marketing,
           <br />
           creating engaging content and ads that reach personalized
           <br />
