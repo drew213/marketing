@@ -17,7 +17,7 @@ const Home = () => {
     {
       title: "🎯 Targeted Ads: Reaching the Right Audience with Precision",
       description:
-        "In today's competitive digital landscape, reaching the right audience is key to maximizing marketing success. At A&A Media, we specialize in Targeted Ads, ensuring your brand connects with ideal customers based on location, interests, and behaviors.",
+        "In today's competitive digital landscape, reaching the right audience is key to maximizing marketing success. At A&M Media, we specialize in Targeted Ads, ensuring your brand connects with ideal customers based on location, interests, and behaviors.",
       points: [
         "📍 Location-Based Targeting – Deliver ads to users in specific cities, regions, or countries to maximize local engagement.",
         "🎯 Interest-Based Targeting – Connect with users based on their hobbies, preferences, and online behavior.",
