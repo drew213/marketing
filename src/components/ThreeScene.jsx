@@ -56,7 +56,7 @@ const ThreeScene = () => {
 
       const textGeometry = new TextGeometry("Alvis Moltz", {
         font: font,
-        size: 1,
+        size: 0.8,
         depth: 0.2,
         curveSegments: 12,
         bevelEnabled: true,
